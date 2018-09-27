@@ -9,4 +9,5 @@ for i in range(0,10):
   time.sleep(1)
   print(array)
   time.sleep(1)
+print('There you go. theres your random numbers')
   
